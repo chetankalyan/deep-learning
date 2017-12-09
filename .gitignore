@@ -13,6 +13,25 @@ face_generation/data/
 *.pkl 
 
 */.floyd*
-*/.idea*
 */bin
+
+## Eclipse IDE
+
+.project
+.classpath
+.settings/
+.metadata
+*.tmp
+*.bak
+*.swp
+local.properties
+.externalToolBuilders/
+*.launch
+
+# Intellij Idea
+
+.idea
+*.iml
+*.ipr
+*.iws
 
