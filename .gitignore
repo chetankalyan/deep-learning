@@ -13,5 +13,6 @@ face_generation/data/
 *.pkl 
 
 */.floyd*
-*/.idea
+*/.idea*
+*/bin
 
